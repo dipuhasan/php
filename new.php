@@ -1,6 +1,3 @@
-	
-
-     
     <?php
     /*
     Author : Jokr Haxor
