@@ -1,3 +1,6 @@
+ 
+ //http://pastebin.com/Ja5ZZup5#
+ 
     <?php
     /*
     Author : Jokr Haxor
